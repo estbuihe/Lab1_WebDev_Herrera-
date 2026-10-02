@@ -11,7 +11,7 @@ github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
 # CHANGE BELOW
-my_linkedin_url = "https://www.linkedin.com/in/esteban-herrera-27409a387/"
+my_linkedin_url = "https://www.linkedin.com/in/esteban-buitrago-herrera"
 my_github_url = "https://github.com/estbuihe"
 my_email_address = "juanestebangamboah@gmail.com"
 
